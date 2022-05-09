@@ -1,0 +1,10 @@
+
+id
+eventname
+description
+startedate
+starttime
+enddate
+comments
+location
+photolink
