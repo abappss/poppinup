@@ -1,7 +1,17 @@
 {
     "Schedule": {
         "Subject": { "string": {} },
-        "EndTime": { "dateTime": {} },
-        "StartTime": { "dateTime": {} }
+        "EndTime": {
+            "dateTime": {
+                "min": "2022-05-01T00:00:00Z",
+                "max": "2024-12-31T23:59:59Z"
+            }
+        },
+        "StartTime": {
+            "dateTime": {
+                "min": "2022-05-01T00:00:00Z",
+                "max": "2024-12-31T23:59:59Z"
+            }
+        }
     }
 }
