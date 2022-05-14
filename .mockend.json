@@ -1,5 +1,6 @@
 {
     "Schedule": {
+        "ArrayOfDefaultSchedule":["1","2"],
         "Subject": { "string": {} },
         "EndTime": {
             "dateTime": {
