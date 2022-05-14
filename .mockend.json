@@ -1,7 +1,7 @@
 {
     "Schedule": {
         "Subject": { "string": {} },
-        "EndTime": { "string": {} },
-        "StartTime": { "string": {} }
+        "EndTime": { "dateTime": {} },
+        "StartTime": { "dateTime": {} }
     }
 }
