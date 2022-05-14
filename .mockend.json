@@ -1,5 +1,4 @@
 {
-  "DefaultSchedule": {
     "AllDay": false,
     "Categorize": "1",
     "Subject": { "string": {} },
@@ -9,5 +8,5 @@
     "Location": { "string": {} },
     "Owner": { "string": {} },
     "Recurrence": "0"  
-  }
 }
+
