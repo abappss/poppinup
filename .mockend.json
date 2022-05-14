@@ -1,6 +1,6 @@
 {
     "Schedule": {
-        "ArrayOfDefaultSchedule":"1",
+        "ArrayOfDefaultSchedule": {"string": "123"},
         "Subject": { "string": {} },
         "EndTime": {
             "dateTime": {
