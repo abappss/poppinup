@@ -1,11 +1,5 @@
 "Schedule":{
-    "AllDay": false,
-    "Categorize": "1",
     "Subject": { "string": {} },
-    "EndTime": "2022-06-01T10:30:00",
-    "StartTime": "2022-06-01T08:30:00",
-    "Id": { "string": {} },
-    "Location": { "string": {} },
-    "Owner": { "string": {} },
-    "Recurrence": "0"  
+    "EndTime": { "string": {} },
+    "StartTime": { "string": {} }
 }
